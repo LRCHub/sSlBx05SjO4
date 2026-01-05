@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "へでもねーよ",
+  "base_artist": "藤井 風",
+  "createdAt": "2026-01-05T14:41:26.864979Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "へでもねーよ - LASA edit",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_へでもねーよ_-_LASA_edit_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "へでもねーよ - Hedemo Ne-Yo",
+      "artist": "Fujii Kaze",
+      "has_synced": false,
+      "path": "select/02_へでもねーよ_-_Hedemo_Ne-Yo_Fujii_Kaze.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "へでもねーよ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/03_へでもねーよ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "へでもねーよ (LASA edit) - Hedemo Ne-Yo (LASA edit)",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/04_へでもねーよ_(LASA_edit)_-_Hedemo_Ne-Yo_(LASA_edit)_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "へでもねーよ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_へでもねーよ_藤井_風.txt"
+    }
+  ]
+}
